@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tevin, But i go by my middle name; Troy.
-- 👀 I’m interested in game development in unreal engine, and C# Development.
-- 🌱 I’m currently learning C#. I'm Hoping to learn the upcoming scripting language by Epic Games when it comes out and also Python, at some point.
-- 💞️ I’m not looking to collaborate at the moment.
+- 👀 I’m interested in game development in unreal engine, web development, and C#/++ Development.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m currently only collaborating with my best friends.
 - 📫 How to reach me: tropicboytroy@gmail.com
 
 <!---
