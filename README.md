@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tevin, But i go by my middle name; Troy.
-- 👀 I’m interested in game development in unreal engine, web development, and C#/++ Development.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in game development in unreal engine, web development, web, and C++ Development.
+- 🌱 I’m currently learning javascript and react.
 - 💞️ I’m currently only collaborating with my friends.
 - 📫 How to reach me: tropicboytroy@gmail.com
 
